@@ -1,6 +1,7 @@
 # Hilbert space factorizations and locality
 
 Bits and pieces of the code related to the Hilbert space factorization problem, with teams of agents trying to communicate their space configurations to each other. As of now, most of the code is written in Wolfram Mathematica 12.
+Some commands used in the code belong to the Quantum Information Mathematica package developed by Roger Colbeck, and available at [QI](https://github.com/rogercolbeck/QI).
 
 ## Contents
 
